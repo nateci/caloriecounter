@@ -1,10 +1,7 @@
 # Calorie Counter
 
 ## Description
-My motivation was to use my JavaScript skills to create a calorie calculator.
-I built this project so that I can practice my JavaScript skills and challenge myself.
-It's a one page web application that will take in your daily calorie budget, consumed calories and exercised calories to highlight how many calories you have left to consume or how many calories you over consumed.
-What makes my project stand out is that it highlights very important dietary information.
+was bored and wanted to make it so I did
 
 ## Installation
 No installation is required, to give the app a go use the deployed website link.
